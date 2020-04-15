@@ -17,13 +17,10 @@ public class JavaApplication17
         float g=multi.multiplicar(d, e);
         System.out.println("Multiplicacion :"+g);
         System.out.println("Esta es una actualizacion de prueba");
-<<<<<<< HEAD
         System.out.println("La vida es bella1");
         System.out.println("La vida es bella 2");
         System.out.println("La vida es bella 3");
-=======
-        System.out.println("Nico-Student hizo esta modificación")
->>>>>>> 89fd6107e7b6bc2b2b3a258e76f73dbfadd74424
-    }
+
+        System.out.println("Nico-Student hizo esta modificación");
     
 }
