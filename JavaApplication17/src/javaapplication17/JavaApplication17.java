@@ -17,6 +17,9 @@ public class JavaApplication17
         float g=multi.multiplicar(d, e);
         System.out.println("Multiplicacion :"+g);
         System.out.println("Esta es una actualizacion de prueba");
+        System.out.println("La vida es bella1");
+        System.out.println("La vida es bella 2");
+        System.out.println("La vida es bella 3");
     }
     
 }
